@@ -1,6 +1,6 @@
 # PowerShell
 
-PowerShell Logo goes here
+![PowerShell logo] (.\PowerShell_5.0_icon.png)
 
 About PowerShell
 
